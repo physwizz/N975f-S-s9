@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/snd-soc-madera.o :=  rm -f sound/soc/codecs/snd-soc-madera.o; /home/grahame/toolchains/r383902/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD sound/soc/codecs/snd-soc-madera.o sound/soc/codecs/madera.o 

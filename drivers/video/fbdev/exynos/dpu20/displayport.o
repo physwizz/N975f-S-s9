@@ -1,0 +1,17 @@
+!<thin>
+//                                              148       `
+displayport_drv.o/
+displayport_edid.o/
+displayport_hdcp13.o/
+decon_displayport.o/
+displayport_hdcp22_if.o/
+secdp_unit_test.o/
+secdp_aux_control.o/
+
+/0              0           0     0     644     603272    `
+/19             0           0     0     644     233928    `
+/39             0           0     0     644     350736    `
+/61             0           0     0     644     304928    `
+/82             0           0     0     644     247520    `
+/107            0           0     0     644     167640    `
+/126            0           0     0     644     162168    `

@@ -1,0 +1,44 @@
+!<thin>
+//                                              490       `
+score_device.o/
+score_core.o/
+score_ioctl.o/
+score_compat_ioctl.o/
+score_frame.o/
+score_context.o/
+score_util.o/
+score_mmu.o/
+hardware/v3/score_system.o/
+hardware/v3/score_interface.o/
+hardware/v3/score_firmware.o/
+hardware/v3/score_scq.o/
+hardware/v3/score_sm.o/
+hardware/v3/score_sr.o/
+hardware/v3/score_print.o/
+hardware/v3/score_dpmu.o/
+hardware/v3/score_profiler.o/
+hardware/v3/score_sysfs.o/
+hardware/v3/v3_1/score_memory.o/
+hardware/v3/v3_1/score_clk.o/
+hardware/v3/v3_1/score_pm.o/
+/0              0           0     0     644     192472    `
+/16             0           0     0     644     151384    `
+/30             0           0     0     644     133312    `
+/45             0           0     0     644     209168    `
+/67             0           0     0     644     186648    `
+/82            /0           0     0     644     147864    `
+/99             0           0     0     644     9896      `
+/113            0           0     0     644     182368    `
+/126            0           0     0     644     162216    `
+/154            0           0     0     644     145928    `
+/185            0           0     0     644     135456    `
+/215            0           0     0     644     163664    `
+/240            0           0     0     644     120736    `
+/264            0           0     0     644     120736    `
+/288            0           0     0     644     137456    `
+/315            0           0     0     644     300216    `
+/341            0           0     0     644     168456    `
+/371            0           0     0     644     486808    `
+/398            0           0     0     644     153408    `
+/431            0           0     0     644     137848    `
+/461            0           0     0     644     147048    `

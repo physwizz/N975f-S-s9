@@ -1,0 +1,1 @@
+cmd_drivers/vision/npu/generated/built-in.o :=   rm -f drivers/vision/npu/generated/built-in.o; /home/grahame/toolchains/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/vision/npu/generated/built-in.o drivers/vision/npu/generated/npu-ver-info.o 

@@ -1,0 +1,1 @@
+cmd_drivers/muic/built-in.o :=   rm -f drivers/muic/built-in.o; /home/grahame/toolchains/r383902/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/muic/built-in.o drivers/muic/muic-core.o drivers/muic/muic_notifier.o drivers/muic/max77705-muic.o drivers/muic/max77705-muic-afc.o drivers/muic/max77705-muic-ccic.o 

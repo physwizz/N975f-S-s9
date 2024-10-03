@@ -1,0 +1,1 @@
+cmd_drivers/vision/iva/built-in.o :=   rm -f drivers/vision/iva/built-in.o; /home/grahame/toolchains/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/vision/iva/built-in.o drivers/vision/iva/iva_ctl.o 

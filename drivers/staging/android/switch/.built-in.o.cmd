@@ -1,0 +1,1 @@
+cmd_drivers/staging/android/switch/built-in.o :=   rm -f drivers/staging/android/switch/built-in.o; /home/grahame/toolchains/r383902/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/staging/android/switch/built-in.o drivers/staging/android/switch/switch_class.o 

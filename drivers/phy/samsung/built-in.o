@@ -1,0 +1,17 @@
+!<thin>
+//                                              156       `
+phy-exynos-mipi.o/
+phy-exynos5-usbdrd.o/
+phy-exynos-debugfs.o/
+phy-exynos-dp-debugfs.o/
+phy-exynos-usbdrd.o/
+phy-exynos-usb3p1.o/
+phy-exynos-usbdp-gen2.o/
+
+/0              0           0     0     644     251480    `
+/19             0           0     0     644     178272    `
+/41             0           0     0     644     191960    `
+/63             0           0     0     644     168640    `
+/88             0           0     0     644     356008    `
+/109            0           0     0     644     177712    `
+/130            0           0     0     644     202144    `

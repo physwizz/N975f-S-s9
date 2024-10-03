@@ -1,0 +1,65 @@
+!<thin>
+//                                              596       `
+npu-util-autosleepthr.o/
+npu-util-liststatemgr.o/
+npu-util-msgidgen.o/
+npu-util-regs.o/
+npu-util-llq.o/
+npu-util-common.o/
+npu-log.o/
+npu-ver.o/
+npu-debug.o/
+npu-profile.o/
+npu-device.o/
+npu-vertex.o/
+npu-binary.o/
+npu-queue.o/
+npu-qos.o/
+npu-system.o/
+npu-memory.o/
+npu-protodrv.o/
+npu-session.o/
+npu-fw-test-handler.o/
+npu-if-session-protodrv.o/
+npu-if-protodrv-mbox2.o/
+npu-sessionmgr.o/
+interface/hardware/npu-interface.o/
+interface/hardware/mailbox_ipc.o/
+npu-golden.o/
+npu-util-statekeeper.o/
+npu-util-comparator.o/
+npu-util-memdump.o/
+generated/npu-ver-info.o/
+soc/9820/npu-system-soc.o/
+
+/0              0           0     0     644     198528    `
+/25             0           0     0     644     207856    `
+/50             0           0     0     644     23168     `
+/71            /0           0     0     644     23664     `
+/88             0           0     0     644     12736     `
+/104            0           0     0     644     4360      `
+/123            0           0     0     644     334568    `
+/134            0           0     0     644     163680    `
+/145            0           0     0     644     208168    `
+/158            0           0     0     644     288840    `
+/173            0           0     0     644     263840    `
+/187            0           0     0     644     262352    `
+/201            0           0     0     644     193800    `
+/215            0           0     0     644     183840    `
+/228            0           0     0     644     190672    `
+/239            0           0     0     644     226296    `
+/253            0           0     0     644     166176    `
+/267            0           0     0     644     1800512   `
+/283            0           0     0     644     307840    `
+/298            0           0     0     644     199632    `
+/321            0           0     0     644     171640    `
+/348            0           0     0     644     168416    `
+/373            0           0     0     644     147096    `
+/391           /0           0     0     644     286552    `
+/427            0           0     0     644     64392     `
+/461            0           0     0     644     300752    `
+/475            0           0     0     644     12112     `
+/499            0           0     0     644     15648     `
+/522            0           0     0     644     215240    `
+/542            0           0     0     644     3712      `
+/568            0           0     0     644     205384    `

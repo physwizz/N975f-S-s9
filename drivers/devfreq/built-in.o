@@ -1,0 +1,11 @@
+!<thin>
+//                                              88        `
+devfreq.o/
+governor_simpleinteractive.o/
+exynos/exynos-devfreq.o/
+exynos/exynos-ppc.o/
+
+/0              0           0     0     644     260024    `
+/11             0           0     0     644     149760    `
+/41             0           0     0     644     347704    `
+/66             0           0     0     644     129128    `

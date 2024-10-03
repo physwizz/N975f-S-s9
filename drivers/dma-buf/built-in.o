@@ -1,0 +1,18 @@
+!<thin>
+//                                              124       `
+dma-buf.o/
+dma-fence.o/
+dma-fence-array.o/
+reservation.o/
+seqno-fence.o/
+sync_file.o/
+dma-buf-container.o/
+dma-buf-trace.o/
+/0              0           0     0     644     245912    `
+/11             0           0     0     644     312640    `
+/24             0           0     0     644     25872     `
+/43             0           0     0     644     107704    `
+/58             0           0     0     644     123112    `
+/73             0           0     0     644     137048    `
+/86             0           0     0     644     173584    `
+/107           /0           0     0     644     181792    `

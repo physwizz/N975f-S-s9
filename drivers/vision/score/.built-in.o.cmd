@@ -1,0 +1,1 @@
+cmd_drivers/vision/score/built-in.o :=   rm -f drivers/vision/score/built-in.o; /home/grahame/toolchains/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/vision/score/built-in.o drivers/vision/score/score.o 

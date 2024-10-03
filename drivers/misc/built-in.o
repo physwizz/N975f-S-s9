@@ -1,0 +1,100 @@
+!<thin>
+//                                              1192      `
+uid_sys_stats.o/
+mcu_ipc/mcu_ipc.o/
+mcu_ipc/shm_ipc.o/
+modem_v1/modem_main.o/
+modem_v1/modem_variation.o/
+modem_v1/modem_io_device.o/
+modem_v1/modem_utils.o/
+modem_v1/modem_dump.o/
+modem_v1/link_device_shmem.o/
+modem_v1/link_device_memory_snapshot.o/
+modem_v1/link_device_memory_flow_control.o/
+modem_v1/link_device_memory_debug.o/
+modem_v1/link_device_memory_sbd.o/
+modem_v1/modem_notifier.o/
+modem_v1/modem_ctrl_s5000ap.o/
+modem_v1/link_rx_zerocopy.o/
+modem_v1/link_rx_dit.o/
+modem_v1/link_rx_pktproc.o/
+modem_v1/modem_argos_notifier.o/
+memory_state_time.o/
+tzdev/lib/circ_buf.o/
+tzdev/lib/circ_buf_packet.o/
+tzdev/teec/context.o/
+tzdev/teec/misc.o/
+tzdev/teec/session.o/
+tzdev/teec/shared_memory.o/
+tzdev/sysdep.o/
+tzdev/tz_cdev.o/
+tzdev/tz_cred.o/
+tzdev/tz_iwio.o/
+tzdev/tz_iwservice.o/
+tzdev/tz_iwsock.o/
+tzdev/tz_mem.o/
+tzdev/tz_platform.o/
+tzdev/tz_ree_time.o/
+tzdev/tz_uiwsock.o/
+tzdev/tzdev.o/
+tzdev/tz_kthread_pool_smpboot.o/
+tzdev/ion_fd2phys_v1.o/
+tzdev/tz_boost.o/
+tzdev/tz_deploy_tzar.o/
+tzdev/tzirs.o/
+tzdev/tz_iwlog.o/
+tzdev/tz_iw_boot_log.o/
+tui/main.o/
+tui/stui_core.o/
+tui/stui_inf.o/
+tui/platforms/exynos9820/stui_hal_display.o/
+tui/platforms/exynos9820/stui_hal_touch.o/
+/0             /0           0     0     644     201296    `
+/17             0           0     0     644     202384    `
+/36             0           0     0     644     200496    `
+/55             0           0     0     644     540424    `
+/78             0           0     0     644     243360    `
+/106            0           0     0     644     487608    `
+/134            0           0     0     644     463672    `
+/158            0           0     0     644     272760    `
+/181            0           0     0     644     748592    `
+/211            0           0     0     644     273736    `
+/251            0           0     0     644     282096    `
+/295            0           0     0     644     250272    `
+/332            0           0     0     644     287832    `
+/367            0           0     0     644     5704      `
+/394            0           0     0     644     324232    `
+/425            0           0     0     644     297432    `
+/454            0           0     0     644     359176    `
+/478            0           0     0     644     264808    `
+/506            0           0     0     644     249672    `
+/539            0           0     0     644     170920    `
+/560            0           0     0     644     71320     `
+/582            0           0     0     644     15520     `
+/611            0           0     0     644     30128     `
+/633            0           0     0     644     132000    `
+/652            0           0     0     644     176528    `
+/674           /0           0     0     644     122208    `
+/702            0           0     0     644     148968    `
+/718            0           0     0     644     112720    `
+/735            0           0     0     644     130032    `
+/752            0           0     0     644     140064    `
+/769            0           0     0     644     6568      `
+/791            0           0     0     644     249736    `
+/810            0           0     0     644     201648    `
+/826            0           0     0     644     96800     `
+/847            0           0     0     644     44872     `
+/868            0           0     0     644     155688    `
+/888            0           0     0     644     212232    `
+/903            0           0     0     644     171592    `
+/936            0           0     0     644     154680    `
+/960            0           0     0     644     11200     `
+/978            0           0     0     644     5147304   `
+/1002           0           0     0     644     4984      `
+/1017           0           0     0     644     109440    `
+/1035           0           0     0     644     116312    `
+/1059           0           0     0     644     135440    `
+/1071           0           0     0     644     120616    `
+/1088           0           0     0     644     283528    `
+/1104           0           0     0     644     194640    `
+/1149           0           0     0     644     5928      `

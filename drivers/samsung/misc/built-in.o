@@ -1,0 +1,23 @@
+!<thin>
+//                                              154       `
+sec_log.o/
+sec_batt.o/
+sec_pm_debug.o/
+sec_nad.o/
+sec_nad_balancer.o/
+sec_hqm_device.o/
+sec_heavy_task_cpu.o/
+sec_argos.o/
+sec_sysup.o/
+vbus_notifier.o/
+
+/0              0           0     0     644     166976    `
+/11             0           0     0     644     19480     `
+/23             0           0     0     644     120784    `
+/39             0           0     0     644     4464      `
+/50             0           0     0     644     5048      `
+/70             0           0     0     644     121696    `
+/88             0           0     0     644     154600    `
+/110            0           0     0     644     214168    `
+/123            0           0     0     644     136768    `
+/136           /0           0     0     644     108384    `

@@ -1,0 +1,34 @@
+!<thin>
+//                                              340       `
+modem_main.o/
+modem_variation.o/
+modem_io_device.o/
+modem_utils.o/
+modem_dump.o/
+link_device_shmem.o/
+link_device_memory_snapshot.o/
+link_device_memory_flow_control.o/
+link_device_memory_debug.o/
+link_device_memory_sbd.o/
+modem_notifier.o/
+modem_ctrl_s5000ap.o/
+link_rx_zerocopy.o/
+link_rx_dit.o/
+link_rx_pktproc.o/
+modem_argos_notifier.o/
+/0              0           0     0     644     540424    `
+/14             0           0     0     644     243360    `
+/33             0           0     0     644     487608    `
+/52             0           0     0     644     463672    `
+/67             0           0     0     644     272760    `
+/81             0           0     0     644     748592    `
+/102            0           0     0     644     273736    `
+/133            0           0     0     644     282096    `
+/168            0           0     0     644     250272    `
+/196            0           0     0     644     287832    `
+/222            0           0     0     644     5704      `
+/240            0           0     0     644     324232    `
+/262            0           0     0     644     297432    `
+/282            0           0     0     644     359176    `
+/297            0           0     0     644     264808    `
+/316            0           0     0     644     249672    `

@@ -1,0 +1,56 @@
+!<thin>
+//                                              1234      `
+fimc-is-helper-i2c.o/
+csi2/fimc-is-hw-csi-v5_2.o/
+module_framework/fimc-is-interface-sensor.o/
+module_framework/fimc-is-interface-actuator.o/
+module_framework/fimc-is-control-sensor.o/
+module_framework/fimc-is-control-actuator.o/
+module_framework/fimc-is-device-sensor-peri.o/
+module_framework/modules/fimc-is-device-module-base.o/
+module_framework/modules/fimc-is-device-module-3j1.o/
+module_framework/modules/fimc-is-device-module-3m5.o/
+module_framework/modules/fimc-is-device-module-3p9.o/
+module_framework/modules/fimc-is-device-module-2l4.o/
+module_framework/modules/fimc-is-device-module-imx316.o/
+module_framework/modules/fimc-is-device-module-imx516.o/
+module_framework/cis/fimc-is-cis.o/
+module_framework/cis/fimc-is-cis-3j1.o/
+module_framework/cis/fimc-is-cis-3m5.o/
+module_framework/cis/fimc-is-cis-2l4.o/
+module_framework/cis/fimc-is-cis-3p9.o/
+module_framework/cis/fimc-is-cis-imx316.o/
+module_framework/cis/fimc-is-cis-imx516.o/
+module_framework/actuator/fimc-is-helper-actuator-i2c.o/
+module_framework/actuator/fimc-is-actuator-ak737x.o/
+module_framework/actuator/fimc-is-actuator-zc569.o/
+module_framework/flash/fimc-is-flash-s2mpb02.o/
+module_framework/pdp/fimc-is-pdp.o/
+module_framework/pdp/fimc-is-hw-pdp-v1_0.o/
+/0              0           0     0     644     139352    `
+/22             0           0     0     644     245592    `
+/50             0           0     0     644     698248    `
+/95             0           0     0     644     423920    `
+/142            0           0     0     644     450480    `
+/185            0           0     0     644     399928    `
+/230            0           0     0     644     558936    `
+/277            0           0     0     644     519040    `
+/332            0           0     0     644     444192    `
+/386            0           0     0     644     444944    `
+/440            0           0     0     644     442816    `
+/494            0           0     0     644     451520    `
+/548            0           0     0     644     445640    `
+/605            0           0     0     644     445832    `
+/662            0           0     0     644     280224    `
+/698            0           0     0     644     666352    `
+/738            0           0     0     644     612576    `
+/778            0           0     0     644     872512    `
+/818            0           0     0     644     568968    `
+/858            0           0     0     644     545432    `
+/901            0           0     0     644     532808    `
+/944            0           0     0     644     119776    `
+/1001           0           0     0     644     455424    `
+/1054           0           0     0     644     448904    `
+/1106           0           0     0     644     426424    `
+/1154           0           0     0     644     462480    `
+/1190           0           0     0     644     120560    `

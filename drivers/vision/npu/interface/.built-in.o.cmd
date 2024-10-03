@@ -1,0 +1,1 @@
+cmd_drivers/vision/npu/interface/built-in.o :=   rm -f drivers/vision/npu/interface/built-in.o; /home/grahame/toolchains/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/vision/npu/interface/built-in.o drivers/vision/npu/interface/hardware/built-in.o 

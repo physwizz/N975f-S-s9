@@ -1,0 +1,1 @@
+cmd_drivers/rtc/built-in.o :=   rm -f drivers/rtc/built-in.o; /home/grahame/toolchains/r383902/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/rtc/built-in.o drivers/rtc/rtc-lib.o drivers/rtc/hctosys.o drivers/rtc/systohc.o drivers/rtc/rtc-core.o drivers/rtc/rtc-s2mps19.o 

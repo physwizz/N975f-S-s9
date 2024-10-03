@@ -1,0 +1,1 @@
+cmd_drivers/usb/notify/built-in.o :=   rm -f drivers/usb/notify/built-in.o; /home/grahame/toolchains/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/usb/notify/built-in.o drivers/usb/notify/usb_notify_layer.o drivers/usb/notify/usb_notifier.o drivers/usb/notify/usb_power_notify.o 

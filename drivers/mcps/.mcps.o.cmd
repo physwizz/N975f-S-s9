@@ -1,0 +1,1 @@
+cmd_drivers/mcps/mcps.o :=  rm -f drivers/mcps/mcps.o; /home/grahame/toolchains/r383902/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/mcps/mcps.o drivers/mcps/mcps_main.o drivers/mcps/mcps_gro_main.o drivers/mcps/mcps_core.o drivers/mcps/mcps_params.o drivers/mcps/mcps_buffer.o drivers/mcps/mcps_debug.o 

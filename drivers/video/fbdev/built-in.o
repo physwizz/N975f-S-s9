@@ -1,0 +1,116 @@
+!<thin>
+//                                              1500      `
+core/fb_cmdline.o/
+core/fb_notify.o/
+core/fbmem.o/
+core/fbmon.o/
+core/fbcmap.o/
+core/fbsysfs.o/
+core/modedb.o/
+core/fbcvt.o/
+core/cfbfillrect.o/
+core/cfbcopyarea.o/
+core/cfbimgblt.o/
+exynos/panel/timenval.o/
+exynos/panel/panel.o/
+exynos/panel/panel_bl.o/
+exynos/panel/dimming.o/
+exynos/panel/panel_drv.o/
+exynos/panel/panel_irc.o/
+exynos/panel/s6e3ha9/s6e3ha9.o/
+exynos/panel/s6e3ha9/s6e3ha9_aod.o/
+exynos/panel/mdnie.o/
+exynos/panel/sysfs.o/
+exynos/panel/copr.o/
+exynos/panel/dpui.o/
+exynos/panel/panel_notify.o/
+exynos/panel/panel_poc.o/
+exynos/panel/aod/aod_drv.o/
+exynos/panel/panel_spi.o/
+exynos/panel/dynamic_freq.o/
+exynos/dpu20/dpp_drv.o/
+exynos/dpu20/dsim_drv.o/
+exynos/dpu20/cal_9820/dsim_reg.o/
+exynos/dpu20/cal_9820/dpp_reg.o/
+exynos/dpu20/cal_9820/decon_reg.o/
+exynos/dpu20/displayport_drv.o/
+exynos/dpu20/displayport_edid.o/
+exynos/dpu20/displayport_hdcp13.o/
+exynos/dpu20/decon_displayport.o/
+exynos/dpu20/displayport_hdcp22_if.o/
+exynos/dpu20/secdp_unit_test.o/
+exynos/dpu20/secdp_aux_control.o/
+exynos/dpu20/cal_9820/displayport_reg.o/
+exynos/dpu20/decon_core.o/
+exynos/dpu20/decon_dsi.o/
+exynos/dpu20/decon_wb.o/
+exynos/dpu20/helper.o/
+exynos/dpu20/win_update.o/
+exynos/dpu20/cursor.o/
+exynos/dpu20/fence.o/
+exynos/dpu20/event_log.o/
+exynos/dpu20/bts.o/
+exynos/dpu20/panels/common_mipi_lcd.o/
+exynos/dpu20/dp_logger/dp_logger.o/
+exynos/dpu20/dp_logger/displayport_bigdata.o/
+exynos/dpu20/mcd_hdr/hdr_reg.o/
+exynos/dpu20/mcd_hdr/hdr_drv.o/
+exynos/dpu20/mcd_hdr/mcd_cm.o/
+simplefb.o/
+/0              0           0     0     644     12408     `
+/19             0           0     0     644     133128    `
+/37             0           0     0     644     346120    `
+/51             0           0     0     644     213720    `
+/65             0           0     0     644     187336    `
+/80             0           0     0     644     186456    `
+/96             0           0     0     644     216080    `
+/111            0           0     0     644     17064     `
+/125            0           0     0     644     161184    `
+/145            0           0     0     644     160472    `
+/165            0           0     0     644     160552    `
+/183            0           0     0     644     9552      `
+/208            0           0     0     644     410640    `
+/230            0           0     0     644     347560    `
+/255            0           0     0     644     151408    `
+/279            0           0     0     644     579544    `
+/305            0           0     0     644     19888     `
+/331            0           0     0     644     2122960   `
+/363            0           0     0     644     209192    `
+/399            0           0     0     644     390384    `
+/421            0           0     0     644     525008    `
+/443            0           0     0     644     367896    `
+/464            0           0     0     644     166216    `
+/485            0           0     0     644     11304     `
+/514            0           0     0     644     421904    `
+/540            0           0     0     644     366288    `
+/568            0           0     0     644     303256    `
+/594            0           0     0     644     301608    `
+/623            0           0     0     644     299744    `
+/647            0           0     0     644     442008    `
+/672            0           0     0     644     519176    `
+/706            0           0     0     644     405952    `
+/739            0           0     0     644     650088    `
+/774            0           0     0     644     603272    `
+/806            0           0     0     644     233928    `
+/839            0           0     0     644     350736    `
+/874            0           0     0     644     304928    `
+/908            0           0     0     644     247520    `
+/946            0           0     0     644     167640    `
+/978            0           0     0     644     162168    `
+/1012           0           0     0     644     1103560   `
+/1053           0           0     0     644     587600    `
+/1080           0           0     0     644     389128    `
+/1106           0           0     0     644     274360    `
+/1131           0           0     0     644     365248    `
+/1154           0           0     0     644     295872    `
+/1181           0           0     0     644     278616    `
+/1204           0           0     0     644     282560    `
+/1226           0           0     0     644     432296    `
+/1252           0           0     0     644     318432    `
+/1272           0           0     0     644     345272    `
+/1311           0           0     0     644     116376    `
+/1347           0           0     0     644     143928    `
+/1393           0           0     0     644     217672    `
+/1425           0           0     0     644     237608    `
+/1457           0           0     0     644     341376    `
+/1488           0           0     0     644     189864    `

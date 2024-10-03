@@ -1,0 +1,86 @@
+!<thin>
+//                                              864       `
+fimc-is-core.o/
+fimc-is-spi.o/
+fimc-is-debug.o/
+fimc-is-mem.o/
+fimc-is-pipe.o/
+fimc-is-framemgr.o/
+fimc-is-groupmgr.o/
+fimc-is-resourcemgr.o/
+fimc-is-devicemgr.o/
+fimc-is-video.o/
+fimc-is-video-sensor.o/
+fimc-is-video-3aa.o/
+fimc-is-video-3aac.o/
+fimc-is-video-3aap.o/
+fimc-is-video-3aaf.o/
+fimc-is-video-3aag.o/
+fimc-is-video-isp.o/
+fimc-is-video-ispc.o/
+fimc-is-video-ispp.o/
+fimc-is-video-mec.o/
+fimc-is-video-dis.o/
+fimc-is-video-disc.o/
+fimc-is-video-mcs.o/
+fimc-is-video-mcsp.o/
+fimc-is-video-vra.o/
+fimc-is-video-ssvc0.o/
+fimc-is-video-ssvc1.o/
+fimc-is-video-ssvc2.o/
+fimc-is-video-ssvc3.o/
+fimc-is-video-pafrdma.o/
+fimc-is-subdev-ctrl.o/
+fimc-is-device-ischain.o/
+fimc-is-time.o/
+fimc-is-dvfs.o/
+fimc-is-dt.o/
+fimc-is-clk-gate.o/
+fimc-is-binary.o/
+fimc-is-i2c-config.o/
+fimc-is-sock.o/
+fimc-is-work.o/
+fimc-is-interface-wrap.o/
+fimc-is-device-sensor_v2.o/
+/0              0           0     0     644     525800    `
+/16             0           0     0     644     361312    `
+/31            /0           0     0     644     262240    `
+/48             0           0     0     644     193528    `
+/63             0           0     0     644     1224      `
+/79             0           0     0     644     345864    `
+/99             0           0     0     644     661856    `
+/119            0           0     0     644     514352    `
+/142            0           0     0     644     367240    `
+/163           /0           0     0     644     499096    `
+/180            0           0     0     644     411360    `
+/204            0           0     0     644     425784    `
+/225            0           0     0     644     395640    `
+/247            0           0     0     644     397568    `
+/269            0           0     0     644     395632    `
+/291            0           0     0     644     395672    `
+/313            0           0     0     644     406872    `
+/334            0           0     0     644     395656    `
+/356            0           0     0     644     395656    `
+/378            0           0     0     644     395728    `
+/399            0           0     0     644     396680    `
+/420            0           0     0     644     395656    `
+/442            0           0     0     644     401568    `
+/463            0           0     0     644     400256    `
+/485            0           0     0     644     416032    `
+/506            0           0     0     644     384960    `
+/529            0           0     0     644     381480    `
+/552            0           0     0     644     381480    `
+/575            0           0     0     644     381480    `
+/598            0           0     0     644     414584    `
+/623            0           0     0     644     471296    `
+/646            0           0     0     644     911792    `
+/672            0           0     0     644     326808    `
+/688            0           0     0     644     383672    `
+/704            0           0     0     644     464136    `
+/718            0           0     0     644     340640    `
+/738            0           0     0     644     125496    `
+/756            0           0     0     644     400128    `
+/778            0           0     0     644     333144    `
+/794            0           0     0     644     32832     `
+/810            0           0     0     644     398904    `
+/836            0           0     0     644     739968    `

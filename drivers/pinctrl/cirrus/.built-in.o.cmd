@@ -1,0 +1,1 @@
+cmd_drivers/pinctrl/cirrus/built-in.o :=   rm -f drivers/pinctrl/cirrus/built-in.o; /home/grahame/toolchains/r383902/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/pinctrl/cirrus/built-in.o drivers/pinctrl/cirrus/pinctrl-madera.o drivers/pinctrl/cirrus/pinctrl-cs47l92.o 

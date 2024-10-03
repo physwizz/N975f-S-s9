@@ -1,0 +1,1 @@
+cmd_drivers/pci/host/built-in.o :=   rm -f drivers/pci/host/built-in.o; /home/grahame/toolchains/r383902/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/pci/host/built-in.o drivers/pci/host/pci-thunder-ecam.o drivers/pci/host/pci-thunder-pem.o drivers/pci/host/pci-xgene.o 

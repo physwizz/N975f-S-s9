@@ -1,0 +1,37 @@
+!<thin>
+//                                              266       `
+core.o/
+dummy.o/
+fixed-helper.o/
+helpers.o/
+devres.o/
+of_regulator.o/
+fixed.o/
+arizona-ldo1.o/
+arizona-micsupp.o/
+s2mps19_regulator.o/
+s2mps19_powermeter.o/
+s2mps20_regulator.o/
+s2mps20_powermeter.o/
+s2mpb02-regulator.o/
+s2mpb03.o/
+s2dos05.o/
+s2dos05_powermeter.o/
+
+/0              0           0     0     644     642904    `
+/8              0           0     0     644     152304    `
+/17             0           0     0     644     143496    `
+/33             0           0     0     644     154616    `
+/44             0           0     0     644     166784    `
+/54             0           0     0     644     191512    `
+/70             0           0     0     644     182912    `
+/79             0           0     0     644     203512    `
+/95             0           0     0     644     266928    `
+/114            0           0     0     644     323128    `
+/135            0           0     0     644     220712    `
+/157            0           0     0     644     247624    `
+/178            0           0     0     644     175168    `
+/200            0           0     0     644     204576    `
+/221            0           0     0     644     223872    `
+/232            0           0     0     644     272896    `
+/243            0           0     0     644     169304    `

@@ -1,0 +1,1 @@
+cmd_drivers/pci/pcie/aer/aerdriver.o :=  rm -f drivers/pci/pcie/aer/aerdriver.o; /home/grahame/toolchains/r383902/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/pci/pcie/aer/aerdriver.o drivers/pci/pcie/aer/aerdrv_errprint.o drivers/pci/pcie/aer/aerdrv_core.o drivers/pci/pcie/aer/aerdrv.o 

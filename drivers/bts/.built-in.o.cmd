@@ -1,0 +1,1 @@
+cmd_drivers/bts/built-in.o :=   rm -f drivers/bts/built-in.o; /home/grahame/toolchains/r383902/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/bts/built-in.o drivers/bts/cal_bts9820.o drivers/bts/bts-exynos9820.o 

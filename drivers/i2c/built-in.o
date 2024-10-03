@@ -1,0 +1,18 @@
+!<thin>
+//                                              132       `
+i2c-boardinfo.o/
+i2c-core-base.o/
+i2c-core-smbus.o/
+i2c-core-of.o/
+i2c-dev.o/
+i2c-mux.o/
+busses/i2c-exynos5.o/
+busses/i2c-speedy.o/
+/0             /0           0     0     644     106464    `
+/17            /0           0     0     644     454016    `
+/34             0           0     0     644     290520    `
+/52             0           0     0     644     141512    `
+/67             0           0     0     644     192560    `
+/78             0           0     0     644     158648    `
+/89             0           0     0     644     370176    `
+/111            0           0     0     644     144512    `

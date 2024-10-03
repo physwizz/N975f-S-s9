@@ -1,0 +1,1 @@
+cmd_drivers/pci/pcie/pcieportdrv.o :=  rm -f drivers/pci/pcie/pcieportdrv.o; /home/grahame/toolchains/r383902/toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/pci/pcie/pcieportdrv.o drivers/pci/pcie/portdrv_core.o drivers/pci/pcie/portdrv_pci.o drivers/pci/pcie/portdrv_bus.o 

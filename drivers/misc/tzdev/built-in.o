@@ -1,0 +1,51 @@
+!<thin>
+//                                              356       `
+lib/circ_buf.o/
+lib/circ_buf_packet.o/
+teec/context.o/
+teec/misc.o/
+teec/session.o/
+teec/shared_memory.o/
+sysdep.o/
+tz_cdev.o/
+tz_cred.o/
+tz_iwio.o/
+tz_iwservice.o/
+tz_iwsock.o/
+tz_mem.o/
+tz_platform.o/
+tz_ree_time.o/
+tz_uiwsock.o/
+tzdev.o/
+tz_kthread_pool_smpboot.o/
+ion_fd2phys_v1.o/
+tz_boost.o/
+tz_deploy_tzar.o/
+tzirs.o/
+tz_iwlog.o/
+tz_iw_boot_log.o/
+
+/0              0           0     0     644     71320     `
+/16             0           0     0     644     15520     `
+/39             0           0     0     644     30128     `
+/55             0           0     0     644     132000    `
+/68             0           0     0     644     176528    `
+/84            /0           0     0     644     122208    `
+/106            0           0     0     644     148968    `
+/116            0           0     0     644     112720    `
+/127            0           0     0     644     130032    `
+/138            0           0     0     644     140064    `
+/149            0           0     0     644     6568      `
+/165            0           0     0     644     249736    `
+/178            0           0     0     644     201648    `
+/188            0           0     0     644     96800     `
+/203            0           0     0     644     44872     `
+/218            0           0     0     644     155688    `
+/232            0           0     0     644     212232    `
+/241            0           0     0     644     171592    `
+/268            0           0     0     644     154680    `
+/286            0           0     0     644     11200     `
+/298            0           0     0     644     5147304   `
+/316            0           0     0     644     4984      `
+/325            0           0     0     644     109440    `
+/337            0           0     0     644     116312    `

@@ -1,0 +1,17 @@
+!<thin>
+//                                              108       `
+ufshcd.o/
+ufs_quirks.o/
+ufshcd-pltfrm.o/
+ufs-exynos.o/
+ufs-exynos-dbg.o/
+ufs-cal-9820.o/
+ufs-exynos-fmp.o/
+
+/0              0           0     0     644     1389768   `
+/10             0           0     0     644     210448    `
+/24            /0           0     0     644     246512    `
+/41             0           0     0     644     389848    `
+/55             0           0     0     644     272424    `
+/73             0           0     0     644     42608     `
+/89             0           0     0     644     237160    `

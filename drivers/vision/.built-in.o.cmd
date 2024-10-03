@@ -1,0 +1,1 @@
+cmd_drivers/vision/built-in.o :=   rm -f drivers/vision/built-in.o; /home/grahame/toolchains/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/vision/built-in.o drivers/vision/vision-core/built-in.o drivers/vision/npu/built-in.o drivers/vision/score/built-in.o drivers/vision/iva/built-in.o 
