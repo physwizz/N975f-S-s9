@@ -313,8 +313,8 @@ SUBARCH := $(shell uname -m | sed -e s/i.86/x86/ -e s/x86_64/x86/ \
 #ARCH		?= $(SUBARCH)
 #CROSS_COMPILE	?= $(CONFIG_CROSS_COMPILE:"%"=%)
 ARCH            ?= arm64
-CROSS_COMPILE	?= $(srctree)/toolchain/gcc-cfp/gcc-cfp-jopp-only/aarch64-linux-android-4.9/bin/aarch64-linux-android-
-
+# CROSS_COMPILE	?= $(srctree)/toolchain/gcc-cfp/gcc-cfp-jopp-only/aarch64-linux-android-4.9/bin/aarch64-linux-android-
+CROSS_COMPILE=/home/physwizz/toolchains/toolchains-gcc-10.3.0/bin/aarch64-buildroot-linux-gnu-
 # Architecture as present in compile.h
 UTS_MACHINE 	:= $(ARCH)
 SRCARCH 	:= $(ARCH)
@@ -376,7 +376,8 @@ AS		= $(CROSS_COMPILE)as
 LD		= $(CROSS_COMPILE)ld
 LDGOLD		= $(CROSS_COMPILE)ld.gold
 #CC		= $(CROSS_COMPILE)gcc
-CC              = $(srctree)/toolchain/clang/host/linux-x86/clang-4639204-cfp-jopp/bin/clang
+CC              = $(srctree)/toolchain/prebuilts_clang_host_linux-x86_clang-r383902-jopp-11/bin/clang
+# CC= /home/physwizz/toolchains/r383902/clang/host/linux-x86/clang-r383902/bin/clang
 CPP		= $(CC) -E
 AR		= $(CROSS_COMPILE)ar
 NM		= $(CROSS_COMPILE)nm
